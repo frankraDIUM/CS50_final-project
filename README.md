@@ -1,4 +1,8 @@
-# radium2013
+# Project 0
+
+Web Programming with Python and JavaScript
+
+
 My Project0 consists of four htmls files;
 index.html,naruto.html,hxh.html,demonslayer.html and dbz.html.
 
